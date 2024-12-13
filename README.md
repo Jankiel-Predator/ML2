@@ -1,6 +1,5 @@
 # ML2
 
----
 
 ### **1. Clone the Repository**
 1. **Install Git** (if not already installed):
@@ -76,4 +75,3 @@
      git pull origin <branch-name>
      ```
 
----
